@@ -1,3 +1,2 @@
 push
 commit2
-pull
